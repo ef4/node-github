@@ -148,6 +148,7 @@ github.authorization.create({
 * Gitignore: 100%
 * Meta: 100%
 * Emojis: 100%
+* Releases: 100%
 
 ## Running the Tests
 
